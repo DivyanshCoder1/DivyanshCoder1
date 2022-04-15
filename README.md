@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DivyanshCoder1
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Development and I am in class 9th.
+- 🌱 I’m currently learning Web Development and I am in class 10th.
 - 💞️ I’m looking to collaborate on CoderGroup123 with my friend.
-- 📫 How to reach me by going to my channel on youtube or you can visit my website.
+- 📫 Reach me by going to my channel on youtube or you can visit my website.
 
 Link of Website:-https://sites.google.com/view/codewithdivyansh
 Link of YouTube:-https://m.youtube.com/channel/UC1HtVUuCJKshmcEbINLLKLg
